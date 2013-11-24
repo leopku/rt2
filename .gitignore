@@ -17,3 +17,12 @@
 
 # Ignore workspace file of sublime project
 /*.sublime-workspace
+
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
